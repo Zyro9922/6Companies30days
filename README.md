@@ -3,9 +3,9 @@
 #### Day 1-5 :
 #### Company Name : Goldman Sachs
 
-- [ ] 1. Given an array of strings, return all groups of strings that are anagrams.
-- [ ] 2. Overlapping rectangles
-- [ ] 3. Count the subarrays having product less than k
+- [x] 1. Given an array of strings, return all groups of strings that are anagrams.
+- [x] 2. Overlapping rectangles
+- [x] 3. Count the subarrays having product less than k
 - [ ] 4. Given a string, Your task is to  complete the function encode that returns the run length encoded string for the given string. eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.(Modified version of question named Cute Monkeys)
 - [ ] 5. Program to find Nth Ugly Number.
 - [ ] 6. Given two strings str1 and str2. We say that str2 divides str1 if it's possible to concatenate multiple str2 to get str1. For example, ab divides abab. if str2 does not divide str1, return -1. Otherwise, return the smallest string str3 such that str3 divides both str1 and str2.
