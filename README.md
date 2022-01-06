@@ -15,7 +15,7 @@
 - [X] 8. Total Decoding Messages
 - [ ] 9. Given a pattern containing only I's and D's. I for increasing and D for decreasing.Devise an algorithm to print the minimum number following that pattern.
 - [X] 10. Find max 10 numbers in a list having 10M entries.
-- [ ] 11. Given an unsorted array Arr of size N of positive integers. One number 'A' from     set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
+- [X] 11. Given an unsorted array Arr of size N of positive integers. One number 'A' from     set {1, 2, …N} is missing and one number 'B' occurs twice in array. Find these two numbers.
 - [X] 12. Find total number of Squares in a N*N chessboard
 - [X] 13. Decode the string
 - [X] 14. Minimum Size Subarray Sum
